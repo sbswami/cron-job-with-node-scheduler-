@@ -1,4 +1,4 @@
-# Corn Job with Node-Schedule Package
+# Cron Job with Node-Schedule Package
 ### Steps for Express :
 1. Run `npm install node-schedule`
 2. Create `route` path to Start Scheduler.
